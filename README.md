@@ -1,4 +1,4 @@
-# 👷 `worker-template` Hello World
+# 👷 `Lira AU NZ rediect` worker App
 
 A template for kick starting a Cloudflare worker project.
 
