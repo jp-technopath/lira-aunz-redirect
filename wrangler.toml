@@ -1,0 +1,11 @@
+name = "lira-aunz-redirect"
+type = "javascript"
+compatibility_date = "2022-03-10"
+account_id = "ce5ff3541438b60203626d10f697d979"
+workers_dev = true
+
+[env.production]
+workers_dev = false
+route = "https://liraclinical.com/*"
+zone_id = "075e64a53639237b9b5d4f384514359c"
+compatibility_date = "2022-03-10"
